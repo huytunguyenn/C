@@ -1,2 +1,2 @@
-# Combinatorics-
+# Combinatorics
 Combinatorics - MTH00050

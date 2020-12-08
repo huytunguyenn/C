@@ -1,2 +1,2 @@
-# Combinatorics
-Combinatorics - MTH00050
+# CM
+Combinatorics Mathematics - MTH00050
